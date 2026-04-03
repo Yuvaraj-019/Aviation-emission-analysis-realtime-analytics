@@ -1,8 +1,6 @@
 # Aviation-emission-analysis-realtime-analytics
-Here's the README content ready to copy and paste directly into your existing README.md file:
 
-```markdown
-# Aviation Environmental Impact Analysis System
+Live Demo: https://youtu.be/2D3N3lU-dyY?si=PI8-05BtsFTAHCzX
 
 A real-time data pipeline for analyzing the environmental impact of aviation using OpenSky API, Kafka, PostgreSQL, and Apache Superset.
 
