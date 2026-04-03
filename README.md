@@ -251,35 +251,3 @@ docker-compose logs postgres
 docker-compose logs superset
 ```
 
-## License
-
-MIT License - see LICENSE file for details
-
----
-
-**⭐ Star this repository if you find it useful!**
-```
-
-## How to Copy and Paste:
-
-1. **Select all the text above** (from `# Aviation Environmental Impact` to the end)
-2. **Press Ctrl+C** (or Cmd+C on Mac) to copy
-3. **Open your README.md file**:
-   ```bash
-   nano README.md
-   ```
-   Or if using VS Code:
-   ```bash
-   code README.md
-   ```
-4. **Delete all existing content** (Ctrl+A then Delete)
-5. **Press Ctrl+V** to paste the new content
-6. **Save the file**:
-   - In nano: `Ctrl+X`, then `Y`, then `Enter`
-   - In VS Code: `Ctrl+S`
-
-7. **Update the placeholders** (optional):
-   - Change `yourusername` to your actual GitHub username
-   - Update any other specific details if needed
-
-That's it! Your README is now ready for GitHub.
