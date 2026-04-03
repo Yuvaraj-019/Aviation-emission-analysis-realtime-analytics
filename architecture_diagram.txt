@@ -1,0 +1,8 @@
+┌─────────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│   Data Producer │ -> │   Kafka     │ -> │ PostgreSQL  │ -> │  Superset   │
+│  (Python Script)│    │ (Broker)    │    │  Database   │    │  Dashboard  │
+└─────────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+       │                      │                    │                  │
+       │ Generates flight     │ Streams real-time  │ Stores structured│ Visualizes metrics
+       │ emission data every  │ data to consumers  │ flight data      │ with auto-refresh
+       │ 30 seconds           │                    │                  │
