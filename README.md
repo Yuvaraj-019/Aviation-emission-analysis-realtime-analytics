@@ -248,4 +248,5 @@ docker-compose logs kafka
 docker-compose logs postgres
 docker-compose logs superset
 ```
-
+⚠️ Disclaimer
+This project was developed for educational purposes only in a controlled environment. Do not use these techniques on unauthorized systems.
